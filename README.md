@@ -9,4 +9,4 @@ This assignment consists of three technical analysis deliverables. You will subm
 - Deliverable 2: Add Major Earthquake Data
 - Deliverable 3: Add an Additional Map
 
-To view the website click (HERE)[https://sharof17.github.io/Mapping_Earthquakes/Earthquake_Challenge/]
+To view the website click !(HERE)[https://sharof17.github.io/Mapping_Earthquakes/Earthquake_Challenge/]
